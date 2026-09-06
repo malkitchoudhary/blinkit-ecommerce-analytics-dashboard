@@ -8,6 +8,13 @@ An interactive, portfolio-ready **E-Commerce Business Intelligence Dashboard** b
 
 ---
 
+## 🎥 Project Demo
+
+<p align="center">
+  <img src="Blinkit.gif" alt="Blinkit E-Commerce Analytics Dashboard Demo" width="100%">
+</p>
+
+
 ## 📌 Project Overview
 
 The **Blinkit E-Commerce Analytics Dashboard** is an end-to-end Data Analytics and Business Intelligence project designed to transform multiple raw e-commerce datasets into meaningful business insights.
